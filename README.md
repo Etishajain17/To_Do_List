@@ -1,3 +1,3 @@
 # To_Do_List
 
-Created by Etisha Jain
+Created by Etisha Jain.
